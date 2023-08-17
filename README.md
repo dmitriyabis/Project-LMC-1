@@ -1,2 +1,0 @@
-# Project LMC 1
- 
