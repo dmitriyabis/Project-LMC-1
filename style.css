@@ -70,6 +70,11 @@
 .div-service {
   width: 25%;
   padding: 25px;
+  display: flex;
+  flex-direction: row;
+}
+.div-p {
+  padding-left: 18px;
 }
 .services-card-heading {
   font-style: uppercase;
@@ -80,6 +85,7 @@
   letter-spacing: 0em;
   text-align: left;
   color: #333333;
+  margin-top: 0;
 }
 .services-card-text {
   font-family: Roboto;
